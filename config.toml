@@ -1,8 +1,8 @@
-baseURL = "https://kleinen-strolche-oberhohndorf.github.io/hugo-test/"
-languageCode = "de-de"
+baseURL = "https://kleinen-Strolche-Oberhohndorf.github.io"
+languageCode = "de-DE"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Die kleinen Strolche Oberhohndorf e.V."
 paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -25,12 +25,12 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
+  highlightColor = '#01545B'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  dotColor = "#01545B"
   enableGoogleFonts = false
   #googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Helvetica"
@@ -47,22 +47,12 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
-    identifier = 'home'
-    name = 'Home'
-    url = '/'
+    name = "Impressum"
+    identifier = "impressum"
     weight = 1
+    url = "/impressum/"
   [[menu.main]]
-    name = "Blog"
-    identifier = "blog"
+    name = "Datenschutz"
+    identifier = "datenschutz"
     weight = 2
-    url = "/posts/"
-  [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 3
-    url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 4
-    url = "/tags/"
+    url = "/datenschutz/"

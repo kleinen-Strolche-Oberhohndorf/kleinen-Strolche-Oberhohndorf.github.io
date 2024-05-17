@@ -4,6 +4,11 @@
       "name": "github",
       "url": "github.com/kleinen-Strolche-Oberhohndorf/hugo-test",
       "image": "images/social/github.svg"
+    },
+    {
+    "name": "email",
+    "url": "mailto:kleinen-Strolche-Oberhohndorf@web.de",
+    "image": "images/social/mail.svg"
     }
   ]
 }
