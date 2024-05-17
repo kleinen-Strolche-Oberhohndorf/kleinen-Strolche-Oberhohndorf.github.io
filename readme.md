@@ -3,7 +3,7 @@
 
 # Willkommen
 
-zur Webseite des `Die kleinen Strolche Oberhohndorf e.V.`.
+zur [Webseite](https://kleinen-strolche-oberhohndorf.github.io/) des `Die kleinen Strolche Oberhohndorf e.V.`.
 
 Die Webseite wird hier auf Github mittels [GitHub Pages](https://pages.github.com/) publiziert / gehostet.
 
