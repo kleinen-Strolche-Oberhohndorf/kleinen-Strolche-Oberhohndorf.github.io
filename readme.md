@@ -50,10 +50,20 @@ startet eine [Github-Action](https://docs.github.com/en/actions) automatisch.
 Diese Action erzeugt die HTML Dateien mittels Hugo (im Ordner `public`) basieren auf den Textdateien (*.md)
 und veröffentlicht die Änderungen auf auf Github-Pages. 
 
-Mit dem Github-Desktop muss man zum commit und push nur links unten im Fenster einen Kommentar für die Änderungen 
-angeben und auf Commit klicken. Kurz nach sieht man im [Action-Tab](https://github.com/kleinen-Strolche-Oberhohndorf/kleinen-Strolche-Oberhohndorf.github.io/actions) den gestartet Job der nach ca. 1 Minute die Änderungen veröffentlicht.
+Mit dem Github-Desktop muss man zum commit nur links unten im Fenster einen Kommentar für die Änderungen 
+angeben und auf `Commit to master` klicken. Danach erscheint die Option `Push origin` zum publizieren.
+
+Nach dem publizieren sieht man im [Action-Tab](https://github.com/kleinen-Strolche-Oberhohndorf/kleinen-Strolche-Oberhohndorf.github.io/actions) den gestartet Job der nach ca. 1 Minute die Änderungen veröffentlicht.
 
 ## Hinweise zum Inhalte
+
+### neue Beträge
+
+Neue Beiträge werden als eine neue Datei im Order `content/posts` angelegt. Dafür kopiert man am besten den letzten Eintrag und passt diesen an. 
+
+### Bilder 
+
+Bilder werden im Ordner `static/images` abgelegt und können danach in den Marktdown Dateien benutzt (referenziert) werden.
 
 ### Impressum
 
@@ -64,6 +74,3 @@ Das Impressum wurde aus dem Muster der [ARAG Impressumspflicht für Vereine](htt
 Die Datenschutzerklärung wurde unter zuhilfenahme von [Stiftung Datenschutz](https://stiftungdatenschutz.org)
 so wie [open source privacy](https://opr.vc/) erstellt.
 
-# Credits
-
-* Die Seite ist ein Fork des Jekyll Theme [Minima](https://github.com/jekyll/minima/)
