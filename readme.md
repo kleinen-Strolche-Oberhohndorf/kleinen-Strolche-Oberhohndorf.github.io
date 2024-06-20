@@ -3,7 +3,7 @@
 
 # Willkommen
 
-zur [Webseite](https://kleinen-strolche-oberhohndorf.github.io/) des `Die kleinen Strolche Oberhohndorf e.V.`.
+zur [Webseite](https://kleinen-strolche-oberhohndorf.github.io/) des `Fördervereins Die kleinen Strolche der Kindertagesstätte Oberhohndorf e.V.`.
 
 Die Webseite wird hier auf Github mittels [GitHub Pages](https://pages.github.com/) publiziert / gehostet.
 
@@ -39,7 +39,7 @@ Alternativ kann man kleine Änderungen auch direkt im Browser auf Github vornehm
 
 Man kann Änderungen lokal auf dem eigenen PC anschauen / testen bevor man diese publiziert.
 
-Hierfür muss man [Hugo](https://gohugo.io/installation/) installieren. Danach kann man mittels `hugo-server.cmd` den
+Hierfür muss man [Hugo](https://gohugo.io/installation/) in der extended Version herunterladen und in den Path aufnehmen. Danach kann man mittels `hugo-server.cmd` den
 Hugo server ausführen und sich die Änderungen im Browser unter http://localhost:1313/ ansehen.
 
 ## Publizieren einer neuen Version
@@ -61,9 +61,13 @@ Nach dem publizieren sieht man im [Action-Tab](https://github.com/kleinen-Strolc
 
 Neue Beiträge werden als eine neue Datei im Order `content/posts` angelegt. Dafür kopiert man am besten den letzten Eintrag und passt diesen an. 
 
+Das Datum des Beitrags entscheidet darüber, ab wann dieser veröffentlicht wird.
+
 ### Bilder 
 
 Bilder werden im Ordner `static/images` abgelegt und können danach in den Marktdown Dateien benutzt (referenziert) werden.
+
+Lizenzfreie Bilder können z.B. unter [Unsplash](https://unsplash.com/de) heruntergeladen werden. Dort kann bei der Suche der Filter auf "Lizenz: kostenlos" gesetzt werden.
 
 ### Impressum
 
