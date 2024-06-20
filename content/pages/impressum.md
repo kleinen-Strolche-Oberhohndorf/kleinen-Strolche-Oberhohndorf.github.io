@@ -17,7 +17,7 @@ Gemeinschaftlich vertretungsberechtigt:
    c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
-- 1.Stellvertreter:
+- 1.Stellvertreterin:
    Jeniffer Wessel,
    c/o August-Schlosser-Straße 28,
    08056 Zwickau
@@ -27,7 +27,7 @@ Gemeinschaftlich vertretungsberechtigt:
    c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
-- Schatzmeister:
+- Schatzmeisterin:
    Josefine Drexler,
    c/o August-Schlosser-Straße 28,
    08056 Zwickau

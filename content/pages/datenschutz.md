@@ -21,13 +21,12 @@ angegebenen Anschrift / E-Mail zur Verfügung.
 
 ### Mitgliederverwaltung
 
-Mitgliedsdaten (Name, E-Mail-Adressen, Bankverbindung, postalische Anschrift, Telefonnummern) werden von den jeweiligen Funktionsträger:innen unseres
+Mitgliedsdaten (Name, E-Mail-Adressen, Bankverbindung, postalische Anschrift, Telefonnummern) werden von den jeweiligen Funktionsträgern und Funktionsträgerinnen unseres
 Vereins nur für die ihnen zugeordnete Aufgabenerfüllung verarbeitet. Im Einzelnen bedeutet dies:
 
 - Wenn der Vorstand Mitgliedsdaten benötigt, um seine Aufgaben zu erledigen, darf er auf alle hierfür erforderlichen
   Mitgliedsdaten zugreifen. Dazu gehört insbesondere die Spendenverarbeitung.
-- Der/die Kassenwart:in verarbeitet die Mitgliedsdaten, die für den Einzug der Mitgliedsbeiträge, der/die Kassenprüfer:
-  in verarbeitet die Mitgliedsdaten, die für die Kassenprüfung relevant sind. Dies sind Vorname, Nachname, postalische
+- Der/die Kassenwart/Kassenwartin verarbeitet die Mitgliedsdaten, die für den Einzug der Mitgliedsbeiträge, der/die Kassenprüfer/Kassenprüferin verarbeitet die Mitgliedsdaten, die für die Kassenprüfung relevant sind. Dies sind Vorname, Nachname, postalische
   Anschrift und Bankverbindung mit Zahlungsdaten sowie ggf. Zugriff auf die Lastschriftsverfahrensgenehmigung inklusive
   Unterschrift, sofern das Mitglied dem Verein ein Lastschriftmandat erteilt hat.
 
