@@ -2,7 +2,7 @@ baseURL = "https://kleinen-Strolche-Oberhohndorf.github.io"
 languageCode = "de-DE"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Die kleinen Strolche Oberhohndorf e.V."
+title = "Förderverein Die kleinen Strolche der Kindertagesstätte Oberhohndorf"
 paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -47,12 +47,17 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
+    name = "Spenden"
+    identifier = "spenden"
+    weight = 1
+    url = "/spenden/"
+  [[menu.main]]
     name = "Impressum"
     identifier = "impressum"
-    weight = 1
+    weight = 2
     url = "/impressum/"
   [[menu.main]]
     name = "Datenschutz"
     identifier = "datenschutz"
-    weight = 2
+    weight = 3
     url = "/datenschutz/"
