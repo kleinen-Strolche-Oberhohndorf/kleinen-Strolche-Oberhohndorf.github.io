@@ -3,44 +3,49 @@ title: 'Impressum'
 url: "/impressum/"
 ---
 
-Die kleinen Strolche Oberhohndorf e.V.<br>
+Förderverein "Die kleinen Strolche der Kindertagesstätte Oberhohndorf" e.V.<br>
 August-Schlosser-Straße 28<br>
 08056 Zwickau
 
 Telefon: +49 (0)375/213327<br>
-Email: kleinen-Strolche-Oberhohndorf@web.de
+Email: strolche-kita-oberhohndorf@outlook.de
 
 Gemeinschaftlich vertretungsberechtigt:
 
-1. Vorsitzender:
-   Maik Fiedler
-   c/o August-Schlosser-Straße 28
+- Vorsitzender:
+   Maik Fiedler,
+   c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
-2. Vorsitzender:
-   Jeniffer Wessel
-   c/o August-Schlosser-Straße 28
+- 1.Stellvertreter:
+   Jeniffer Wessel,
+   c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
-3. Vorsitzender:
-   André Franke
-   c/o August-Schlosser-Straße 28
+- 2.Stellvertreter:
+   André Franke,
+   c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
-4. Vorsitzender:
-   Josephine Drexler
-   c/o August-Schlosser-Straße 28
+- Schatzmeister:
+   Josefine Drexler,
+   c/o August-Schlosser-Straße 28,
+   08056 Zwickau
+
+- Vorstandsmitglied:
+   Claudia Weidhaas,
+   c/o August-Schlosser-Straße 28,
    08056 Zwickau
 
 Registergericht: Amtsgericht Chemnitz
 Registernummer: VR 71469
 
 Umsatzsteuer-Identifikationsnummer:
-DE???? TODO
+227/141/04164
 
 Inhaltlicher Verantwortlicher im Sinne des § 18 Abs. 2 MStV:
-Alexander Wessel
-August-Schlosser-Straße 7
+Alexander Wessel,
+August-Schlosser-Straße 7,
 08056 Zwickau
 
 ## Haftungsbeschränkung

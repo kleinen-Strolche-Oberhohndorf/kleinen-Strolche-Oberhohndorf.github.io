@@ -7,12 +7,12 @@ url: "/datenschutz/"
 
 ## Verantwortliche Stelle
 
-Die kleinen Strolche Oberhohndorf e.V.<br>
+Förderverein "Die kleinen Strolche der Kindertagesstätte Oberhohndorf" e.V.<br>
 August-Schlosser-Straße 28<br>
 08056 Zwickau<br> 
 
 Telefon: +49 (0)375/213327<br>
-Email: kleinen-Strolche-Oberhohndorf@web.de
+Email: strolche-kita-oberhohndorf@outlook.de
 
 Bei Fragen zum Datenschutz stehen wir Ihnen unter der oben
 angegebenen Anschrift / E-Mail zur Verfügung.
@@ -21,11 +21,11 @@ angegebenen Anschrift / E-Mail zur Verfügung.
 
 ### Mitgliederverwaltung
 
-Mitgliedsdaten (Name, E-Mail-Adressen, Bankverbindung, TODO) werden von den jeweiligen Funktionsträger:innen unseres
+Mitgliedsdaten (Name, E-Mail-Adressen, Bankverbindung, postalische Anschrift, Telefonnummern) werden von den jeweiligen Funktionsträger:innen unseres
 Vereins nur für die ihnen zugeordnete Aufgabenerfüllung verarbeitet. Im Einzelnen bedeutet dies:
 
 - Wenn der Vorstand Mitgliedsdaten benötigt, um seine Aufgaben zu erledigen, darf er auf alle hierfür erforderlichen
-  Mitgliedsdaten zugreifen. Dazu gehört insbesondere Spendenverarbeitung, **TODO**.
+  Mitgliedsdaten zugreifen. Dazu gehört insbesondere die Spendenverarbeitung.
 - Der/die Kassenwart:in verarbeitet die Mitgliedsdaten, die für den Einzug der Mitgliedsbeiträge, der/die Kassenprüfer:
   in verarbeitet die Mitgliedsdaten, die für die Kassenprüfung relevant sind. Dies sind Vorname, Nachname, postalische
   Anschrift und Bankverbindung mit Zahlungsdaten sowie ggf. Zugriff auf die Lastschriftsverfahrensgenehmigung inklusive
