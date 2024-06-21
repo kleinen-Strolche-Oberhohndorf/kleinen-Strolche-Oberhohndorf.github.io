@@ -17,7 +17,7 @@ Folgende Vorhaben stehen bereits auf der Wunschliste unseres Kindergartens:
 - große Matschküche im Garten
 - Kletterparcours
 
-Wer wir sind:
+## Wer wir sind:
 
 Derzeit zählt unser Förderverein 52 Mitglieder. Unser neuer Vorstand wurde am 14.06.2023 gewählt, am 15.03.2024 durch das Registergericht bestätigt und besteht aus: 
 - Maik Fiedler (Vorsitzender des Fördervereins) – Papa von Lukas und Annika (Käfergruppe)
@@ -29,7 +29,7 @@ Derzeit zählt unser Förderverein 52 Mitglieder. Unser neuer Vorstand wurde am 
 Wir freuen uns über weitere Mitglieder, die den Förderverein unseres Kindergartens unterstützen möchten. Nutzt dafür gern das im Aushang des Eingangsbereiches ausliegende Beitrittsformular und gebt dies bitte bei der KITA-Leitung samt des erforderlichen Mitgliedsbeitrages (6€ pro Jahr) ab. <br>
 
 
-Wie könnt ihr euch über eine Mitgliedschaft hinaus beteiligen?
+## Wie könnt ihr euch über eine Mitgliedschaft hinaus beteiligen?
 
 Darüber hinaus freuen wir uns auch über Spenden, um die Vorhaben und Projekte unseres Kindergartens umsetzen und unterstützen zu können. Auch Sachspenden sind natürlich möglich. <br>
 Wer spenden kann? Alle! Es ist uns leider nicht möglich, nur durch unsere Mitgliedsbeiträge des Fördervereins dem Kindergarten zu helfen. Allen Verwandten, Bekannte, Freunde oder sogar Unternehmen/Arbeitgebern ist es unabhängig von der Mitgliedschaft möglich, zu spenden. Als eingetragener, gemeinnütziger Verein stellen wir euch gern eine Spendenquittung/-bescheinigung aus. Mitgliedsbeiträge und Spenden können an die folgenden Bankdaten überwiesen werden:<br>
@@ -38,7 +38,7 @@ IBAN: DE47 87020088 0325108479<br>
 BIC: HYVEDEM441<br>
 Bank: HypoVereinsbank/UniCredit Bank<br>
 
-Wie könnt ihr Kontakt zu uns aufnehmen?
+## Wie könnt ihr Kontakt zu uns aufnehmen?
 
 Für Informationen, Rückfragen, Ideen usw. stehen wir euch ganz einfach per Mail an 
 strolche-kita-oberhohndorf@outlook.de
