@@ -4,7 +4,7 @@ date: 2024-06-20
 description: "Alle wichtigen Infos zum Förderverein auf einen Blick"
 ---
 
-Liebe Eltern, Großeltern und Freunde der KITA-Oberhohndorf,
+Liebe Eltern, Großeltern und Freunde der Kita Oberhohndorf,
 
 lange Zeit war es ruhig um den Förderverein unseres Kindergartens geworden. Nachdem nun die typischen Dinge der deutschen Bürokratie in Sachen Vereinsarbeit erledigt sind (Ummeldung beim Notar, Benennung des neuen Vorstandes durch das Amtsgericht, Neueintragung der Kontobevollmächtigten etc.) freuen wir uns, euch mitzuteilen zu können, dass wir nun tatkräftig die Arbeit des Fördervereins in Angriff nehmen werden. <br>
 
