@@ -3,6 +3,8 @@ title: 'Datenschutz'
 url: "/datenschutz/"
 params:
   noindex: true
+sitemap:
+  disable: true
 ---
 
 # Datenschutzhinweise gemäß Art. 13 DSGVO

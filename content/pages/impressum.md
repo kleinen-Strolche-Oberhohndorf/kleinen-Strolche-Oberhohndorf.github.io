@@ -3,6 +3,8 @@ title: 'Impressum'
 url: "/impressum/"
 params:
   noindex: true
+sitemap:
+  disable: true
 ---
 
 Förderverein "Die kleinen Strolche der Kindertagesstätte Oberhohndorf" e.V.<br>
