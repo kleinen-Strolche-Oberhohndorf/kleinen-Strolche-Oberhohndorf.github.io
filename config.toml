@@ -52,12 +52,17 @@ pygmentsUseClasses = true
     weight = 1
     url = "/spenden/"
   [[menu.main]]
+    name = "Mitgliedsantrag"
+    identifier = "mitgliedsantrag"
+    weight = 2
+    url = "/mitgliedsantrag/"
+  [[menu.main]]
     name = "Impressum"
     identifier = "impressum"
-    weight = 2
+    weight = 3
     url = "/impressum/"
   [[menu.main]]
     name = "Datenschutz"
     identifier = "datenschutz"
-    weight = 3
+    weight = 4
     url = "/datenschutz/"
