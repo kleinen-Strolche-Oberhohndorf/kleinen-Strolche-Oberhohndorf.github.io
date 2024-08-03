@@ -14,7 +14,7 @@ Als eingetragener, gemeinnütziger Verein stellen wir euch gern eine Spendenquit
 
 Mitgliedsbeiträge und Spenden können an die folgenden Bankdaten überwiesen werden:<br>
 
-Kontoinhaber: Förderverein „Die kleinen Strolche der Kita Oberhohndorf e V.“<br>
+Kontoinhaber: Förderverein „Die kleinen Strolche der Kita Oberhohndorf" e.V.<br>
 IBAN: DE47 87020088 0325108479<br>
 BIC: HYVEDEM441<br>
 Bank: HypoVereinsbank/UniCredit Bank<br>

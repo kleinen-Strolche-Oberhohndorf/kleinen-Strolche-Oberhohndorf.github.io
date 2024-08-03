@@ -8,7 +8,7 @@ Liebe Eltern, Großeltern und Freunde der Kita Oberhohndorf,
 
 lange Zeit war es ruhig um den Förderverein unseres Kindergartens geworden. Nachdem nun die typischen Dinge der deutschen Bürokratie in Sachen Vereinsarbeit erledigt sind (Ummeldung beim Notar, Benennung des neuen Vorstandes durch das Amtsgericht, Neueintragung der Kontobevollmächtigten etc.) freuen wir uns, euch mitzuteilen zu können, dass wir nun tatkräftig die Arbeit des Fördervereins in Angriff nehmen werden. <br>
 
-Ziel unseres Fördervereins „Die kleinen Strolche der Kita Oberhohndorf e. V.“ ist, die Kita durch Spenden und Mitgliedsbeiträge bei der Umsetzung verschiedener Vorhaben und Projekte für die Verbesserung des KITA-Alltags zu unterstützen. Diese sollen in Abstimmung mit den Verantwortlichen unseres Kindergartens sowie dem Elternrat geplant und umgesetzt werden. Projekte und Vorhaben können beispielsweise sein:
+Ziel unseres Fördervereins „Die kleinen Strolche der Kita Oberhohndorf" e.V. ist, die Kita durch Spenden und Mitgliedsbeiträge bei der Umsetzung verschiedener Vorhaben und Projekte für die Verbesserung des KITA-Alltags zu unterstützen. Diese sollen in Abstimmung mit den Verantwortlichen unseres Kindergartens sowie dem Elternrat geplant und umgesetzt werden. Projekte und Vorhaben können beispielsweise sein:
 - Förderung von Projekten unseres Kindergartens durch finanzielle Zuschüsse
 - Finanzierung von neuen Spiel- und Sachmitteln für die Kinder
 - Unterstützung von Veranstaltungen unseres Kindergartens
@@ -33,7 +33,7 @@ Wir freuen uns über weitere Mitglieder, die den Förderverein unseres Kindergar
 
 Darüber hinaus freuen wir uns auch über Spenden, um die Vorhaben und Projekte unseres Kindergartens umsetzen und unterstützen zu können. Auch Sachspenden sind natürlich möglich. <br>
 Wer spenden kann? Alle! Es ist uns leider nicht möglich, nur durch unsere Mitgliedsbeiträge des Fördervereins dem Kindergarten zu helfen. Allen Verwandten, Bekannte, Freunde oder sogar Unternehmen/Arbeitgebern ist es unabhängig von der Mitgliedschaft möglich, zu spenden. Als eingetragener, gemeinnütziger Verein stellen wir euch gern eine Spendenquittung/-bescheinigung aus. Mitgliedsbeiträge und Spenden können an die folgenden Bankdaten überwiesen werden:<br>
-Kontoinhaber: Förderverein „Die kleinen Strolche der Kita Oberhohndorf e V.“<br>
+Kontoinhaber: Förderverein „Die kleinen Strolche der Kita Oberhohndorf" e.V.<br>
 IBAN: DE47 87020088 0325108479<br>
 BIC: HYVEDEM441<br>
 Bank: HypoVereinsbank/UniCredit Bank<br>
