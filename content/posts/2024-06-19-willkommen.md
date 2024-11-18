@@ -2,7 +2,7 @@
 title: Neue Webseite
 date: 2024-06-19
 description: "Neue Webseite"
-image: images/kinder-fuesse.png
+image: images/kinder-fuesse.webp
 ---
 
 🎉 Seit heute haben wir endlich unsere neue Webseite.🎉 Feedback ist willkommen.<br>
