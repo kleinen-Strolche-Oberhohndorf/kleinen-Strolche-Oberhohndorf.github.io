@@ -1,5 +1,5 @@
 ---
-title: Mitgliederversammlung 2024
+title: Versammlung am 16.12.2024
 date: 2024-11-18
 description: "Einladung zur Mitgliederversammlung am 16.12.2024 um 16:00 Uhr"
 ---
