@@ -3,10 +3,12 @@ languageCode = "de-DE"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Förderverein der Kita Oberhohndorf"
-paginate = 5
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+
+[pagination]
+  pagerSize = 5
 
 [module]
   [module.hugoVersion]

@@ -42,6 +42,8 @@ Man kann Änderungen lokal auf dem eigenen PC anschauen / testen bevor man diese
 Hierfür muss man [Hugo](https://gohugo.io/installation/) in der extended Version herunterladen und in den Path aufnehmen. Danach kann man mittels `hugo-server.cmd` den
 Hugo server ausführen und sich die Änderungen im Browser unter http://localhost:1313/ ansehen.
 
+Sollte es einen Fehler `you need the extended version to build SCSS/SASS` geben, dann muss zusätzlich ein sass compilter [installiert](https://gohugo.io/functions/css/sass/#installation-overview) werden.
+
 ## Publizieren einer neuen Version
 
 Sobald eine Änderung am Inhalt der Webseite im Ordner `content`
